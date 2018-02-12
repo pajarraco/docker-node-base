@@ -5,5 +5,5 @@ Base files for Node - Express on Docker
 Run using Docker Compose:
 
 ```console
-$ docker-compose up -d
+$ docker-compose up
 ```
