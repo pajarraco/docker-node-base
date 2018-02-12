@@ -1,5 +1,5 @@
-# docker-node-base
-Base files for Node on Docker
+# Docker Node Base
+Base files for Node - Express on Docker
 
-# Use
-run "docker-compose up"
+# How to use
+Run "docker-compose up"
