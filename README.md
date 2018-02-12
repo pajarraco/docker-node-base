@@ -2,4 +2,8 @@
 Base files for Node - Express on Docker
 
 # How to use
-Run "docker-compose up"
+Run using Docker Compose:
+
+```console
+$ docker-compose up -d
+```
